@@ -33,6 +33,11 @@ I enjoy creating user-friendly, functional, and visually appealing interfaces, a
 - **Description:** A tool to assist in real estate management.
 - **Technologies:** Python, Telegram API.
 
+### 📌 TopGrabber Bot.
+- **Description:** A tool to parse messages from chats by words.
+- **Technologies:** Python, Telegram API, Django, Telethon, Nuts, PostgreSQL.
+
+
 ---
 
 ## 📬 Contact Me
